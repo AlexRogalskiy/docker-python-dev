@@ -43,9 +43,9 @@ The latest deis/python-dev Docker image is available at:
 [Python 3]: https://docs.python.org/3.5/
 [Deis Workflow]: https://deis.com/
 [Docker Hub]: https://hub.docker.com
-[issues]: https://github.com/deis/docker-python-dev/issues
+[issues]: https://github.com/deisthree/docker-python-dev/issues
 [jq]: https://stedolan.github.io/jq/
-[pull requests]: https://github.com/deis/docker-python-dev/pulls
+[pull requests]: https://github.com/deisthree/docker-python-dev/pulls
 [codecov]: https://codecov.io/
 [coverage]: https://coverage.readthedocs.io
 [flake8]: https://gitlab.com/pycqa/flake8
